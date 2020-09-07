@@ -20,5 +20,6 @@ This repository is a collection of the face editing papers and projects.
 | Methods  | Paper | Project | Public code | Without attribute | Without mask | Without interaction | Without re-training | Based on StyleGAN | Manipulation of the latent space |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | StyleFlow | [StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows, arXiv2020](https://arxiv.org/pdf/1912.04958.pdf)  | [here](https://github.com/RameenAbdal/StyleFlow) | :x: (readme only) | :x: | :o: | :o: | :x: | :o: | :o: |  
+| GANSpace | [GANSpace: Discovering Interpretable GAN Controls, arXiv2020](https://arxiv.org/pdf/2004.02546.pdf) | [here](https://github.com/harskish/ganspace) | :o: | :o: | :o: | :o: | :o: | :o: | :o: |  
 | SEAN | [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization, CVPR2020](https://arxiv.org/pdf/1911.12861.pdf) | [here](https://github.com/ZPdesu/SEAN) | :o: | :o: | :x: | :x: | :x: | :x: | :x: |  
 
