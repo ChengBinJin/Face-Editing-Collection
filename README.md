@@ -1,7 +1,7 @@
 # Face Editing Collections
 This repository is a collection of the face editing papers and projects.
 
-## Gradient Descent based Image Reconstruction
+## Optimization-based GAN Inversion Methods
 | Methods  | Paper | Project |
 | ------------- | ------------- | :-------------: |
 | StyleGANv2 official method  | [Analyzing and Improving the Image Quality of StyleGAN, CVPR2020](https://arxiv.org/pdf/1912.04958.pdf)  | [here](https://github.com/NVlabs/stylegan2)  |
