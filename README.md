@@ -23,3 +23,7 @@ This repository is a collection of the face editing papers and projects.
 | GANSpace | [GANSpace: Discovering Interpretable GAN Controls, arXiv2020](https://arxiv.org/pdf/2004.02546.pdf) | [here](https://github.com/harskish/ganspace) | :o: | :o: | :o: | :o: | :o: | :o: | :o: |  
 | SEAN | [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization, CVPR2020](https://arxiv.org/pdf/1911.12861.pdf) | [here](https://github.com/ZPdesu/SEAN) | :o: | :o: | :x: | :x: | :x: | :x: | :x: |  
 
+## Strategy of Data Collection and Training
+| Paper | Description | Project |
+| ------------- | ------------- | :-------------: |
+| [StyleGAN2 Distillation for Feed-forward Image Manipulation, arXiv2020](https://github.com/EvgenyKashin/stylegan2-distillation)  | Manually collect the paired data using manipulation of latent code from StyleGANv2 and train a model based on pix2pixHD | [here](https://github.com/NVlabs/stylegan2) (readme only) |  
