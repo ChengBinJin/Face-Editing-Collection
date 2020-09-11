@@ -9,11 +9,11 @@ This repository is a collection of the face editing papers and projects.
 | Pbaylies method  | Unpublished | [here](https://github.com/pbaylies/stylegan-encoder)  |  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/37034031/92347051-52860e80-f101-11ea-9dcb-755f4d1872e8.png" width=1000>
+<img src="https://user-images.githubusercontent.com/37034031/92896350-e08a2e00-f44e-11ea-92c0-9b5a87e91099.png" width=1000>
 </p>  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/37034031/92347126-8c571500-f101-11ea-873e-8a44b2dfbbee.png" width=1000>
+<img src="https://user-images.githubusercontent.com/37034031/92896457-f861b200-f44e-11ea-8ccc-d470285f9e2c.png" width=1000>
 </p>  
 
 ## Interpretable GAN Controls  
