@@ -7,6 +7,7 @@ This repository is a collection of the face editing papers and projects.
 | StyleGANv2 official method  | [Analyzing and Improving the Image Quality of StyleGAN, CVPR2020](https://arxiv.org/pdf/1912.04958.pdf)  | [here](https://github.com/NVlabs/stylegan2)  |
 | Puzer method  | Unpublished | [here](https://github.com/Puzer/stylegan-encoder)  |  
 | Pbaylies method  | Unpublished | [here](https://github.com/pbaylies/stylegan-encoder)  |  
+| IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | [here](https://github.com/genforce/idinvert)  |  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37034031/92896350-e08a2e00-f44e-11ea-92c0-9b5a87e91099.png" width=1000>
@@ -30,6 +31,7 @@ This repository is a collection of the face editing papers and projects.
 | StyleFlow | [StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows, arXiv2020](https://arxiv.org/pdf/1912.04958.pdf)  | [here](https://github.com/RameenAbdal/StyleFlow) | :x: (readme only) | :x: | :o: | :o: | :x: | :o: | :o: |  
 | GANSpace | [GANSpace: Discovering Interpretable GAN Controls, arXiv2020](https://arxiv.org/pdf/2004.02546.pdf) | [here](https://github.com/harskish/ganspace) | :o: | :o: | :o: | :o: | :o: | :o: | :o: |  
 | InterFaceGAN | [Interpreting the Latent Space of GANs for Semantic Face Editing, CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf) | [here](https://github.com/genforce/interfacegan) | :o: | :x: | :o: | :o: | :o: | :o: | :o: |  
+| IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | [here](https://github.com/genforce/idinvert) | :o: | :x: | :o: | :o: | :x: | :o: | :o: |  
 | SEAN | [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization, CVPR2020](https://arxiv.org/pdf/1911.12861.pdf) | [here](https://github.com/ZPdesu/SEAN) | :o: | :o: | :x: | :x: | :x: | :x: | :x: |  
 
 ## Strategy of Data Collection and Training
