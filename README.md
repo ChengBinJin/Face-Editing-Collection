@@ -33,6 +33,7 @@ This repository is a collection of the face editing papers and projects.
 | InterFaceGAN | [Interpreting the Latent Space of GANs for Semantic Face Editing, CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf) | [here](https://github.com/genforce/interfacegan) | :o: | :x: | :o: | :o: | :o: | :o: | :o: |  
 | IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | [here](https://github.com/genforce/idinvert) | :o: | :x: | :o: | :o: | :x: | :o: | :o: |  
 | SEAN | [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization, CVPR2020](https://arxiv.org/pdf/1911.12861.pdf) | [here](https://github.com/ZPdesu/SEAN) | :o: | :o: | :x: | :x: | :x: | :x: | :x: |  
+| ConfigNet | [CONFIG: Controllable Neural Face Image Generation, ECCV2020](https://arxiv.org/pdf/2005.02671.pdf) | [here](https://github.com/microsoft/ConfigNet) | :o: | :x: | :o: | :o: | :x: | :x: | :x: |  
 
 ## Strategy of Data Collection and Training
 | Paper | Description | Project |
