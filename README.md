@@ -14,7 +14,7 @@ This repository is a collection of the face editing papers and projects.
 </p>  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/37034031/93972279-8b321300-fda4-11ea-96df-6c95f0a2f493.png" width=500>
+<img src="https://user-images.githubusercontent.com/37034031/94364810-99fb2b80-00fe-11eb-9932-11cf4911aecd.png" width=500>
 </p>  
 
 <p align="center">
@@ -22,7 +22,7 @@ This repository is a collection of the face editing papers and projects.
 </p>  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/37034031/93972320-9dac4c80-fda4-11ea-937e-8a867e836d86.png" width=500>
+<img src="https://user-images.githubusercontent.com/37034031/94364813-a2536680-00fe-11eb-970f-3c929ae51d36.png" width=500>
 </p>  
 
 ## Interpretable GAN Controls  
