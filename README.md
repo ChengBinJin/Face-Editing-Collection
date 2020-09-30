@@ -2,12 +2,12 @@
 This repository is a collection of the face editing papers and projects.
 
 ## Optimization-based GAN Inversion Methods
-| Methods  | Paper | Project |
-| ------------- | ------------- | :-------------: |
-| StyleGANv2 official method  | [Analyzing and Improving the Image Quality of StyleGAN, CVPR2020](https://arxiv.org/pdf/1912.04958.pdf)  | [here](https://github.com/NVlabs/stylegan2)  |
-| Puzer method  | Unpublished | [here](https://github.com/Puzer/stylegan-encoder)  |  
-| Pbaylies method  | Unpublished | [here](https://github.com/pbaylies/stylegan-encoder)  |  
-| IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | [here](https://github.com/genforce/idinvert)  |  
+| Methods  | Paper | Loss | Project |
+| ------------- | ------------- | :-------------: | :-------------: |  
+| StyleGANv2 official method  | [Analyzing and Improving the Image Quality of StyleGAN, CVPR2020](https://arxiv.org/pdf/1912.04958.pdf)  | Unknown | [here](https://github.com/NVlabs/stylegan2)  |
+| Puzer method  | Unpublished | Perceptual loss from Conv3-3 of Pre-trained VGG16 | [here](https://github.com/Puzer/stylegan-encoder)  |  
+| Pbaylies method  | Unpublished | Unknown | [here](https://github.com/pbaylies/stylegan-encoder)  |  
+| IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | Unknown | [here](https://github.com/genforce/idinvert)  |  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37034031/92896350-e08a2e00-f44e-11ea-92c0-9b5a87e91099.png" width=1000>
