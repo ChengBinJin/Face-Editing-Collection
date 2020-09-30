@@ -35,6 +35,7 @@ This repository is a collection of the face editing papers and projects.
 | SEAN | [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization, CVPR2020](https://arxiv.org/pdf/1911.12861.pdf) | [here](https://github.com/ZPdesu/SEAN) | :o: | :o: | :x: | :x: | :x: | :x: | :x: |  
 | ConfigNet | [CONFIG: Controllable Neural Face Image Generation, ECCV2020](https://arxiv.org/pdf/2005.02671.pdf) | [here](https://github.com/microsoft/ConfigNet) | :o: | :x: | :o: | :o: | :x: | :x: | :x: |  
 | AttGAN | [AttGAN: Facial Attribute Editing by only Changing What You Want, TIP2019](https://arxiv.org/abs/1711.10678) | [here](https://github.com/LynnHo/AttGAN-Tensorflow) | :o: | :x: | :o: | :o: | :x: | :x: | :x: |  
+| Hessian-Penalty | [The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement, ECCV2020](https://arxiv.org/abs/2008.10599) | [here](https://github.com/wpeebles/hessian_penalty) | :o: | :o: | :o: | :o: | :x: | :x: | :x: |  
 
 ## Strategy of Data Collection and Training
 | Paper | Description | Project |
