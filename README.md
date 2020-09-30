@@ -8,6 +8,7 @@ This repository is a collection of the face editing papers and projects.
 | Puzer method  | Unpublished | Perceptual loss from Conv3-3 of Pre-trained VGG16 | [here](https://github.com/Puzer/stylegan-encoder)  |  
 | Pbaylies method  | Unpublished | Unknown | [here](https://github.com/pbaylies/stylegan-encoder)  |  
 | IDInvert | [In-Domain GAN Inversion for Real Image Editing, ECCV2020](https://arxiv.org/pdf/2004.00049.pdf) | Unknown | [here](https://github.com/genforce/idinvert)  |  
+| Image2StyleGAN | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?, ICCV2019](https://arxiv.org/pdf/1904.03189.pdf) | Unknown | Unopened | 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37034031/92896350-e08a2e00-f44e-11ea-92c0-9b5a87e91099.png" width=1000>
